@@ -5,6 +5,7 @@
 **/resources/application*.yml
 
 ## frontend
+frontend/build/**
 frontend/node_modules
 frontend/package-lock.json
 frontend/yarn.lock
